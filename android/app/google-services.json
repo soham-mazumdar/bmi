@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398220410280",
+    "firebase_url": "https://bmic-d2315.firebaseio.com",
+    "project_id": "bmic-d2315",
+    "storage_bucket": "bmic-d2315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398220410280:android:9fb01821a5e84499f5719d",
+        "android_client_info": {
+          "package_name": "com.maddlytech.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398220410280-lmopn1d2l1fe9mujk06g2c0b8rbs3dro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEylf90nzz6cbz8VG6RAWH32ihy29szY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398220410280-lmopn1d2l1fe9mujk06g2c0b8rbs3dro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
